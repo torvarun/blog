@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: So, uh, what is this site?
 permalink: /about
 comments: true
 ---
@@ -8,28 +8,27 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<p>This is my little corner for my writing. Here you'll find my thoughts on sports (hockey + basketball), books (lots of Harry Potter), programming (Android + dev tools), and any creative writing (if I ever get the confidence to publish it).</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
+<h5>A little about me</h5>
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
+<ul>
+<li>Computer Science + English Literature student at the University of Waterloo</li>
+<li>Major Capitals + Raptors fan</li>
+<li>Marathoner (current personal-best of 3:06), trying to qualify for the Boston Marathon</li>
+<li>Bylines in <i>Macleans</i>, <i>Imprint</i></li>
+<li>Nominated for journalistic awards by the <i>Toronto Star</i> and the Ontario Community Newspapers Association</li>
+</ul>
 
-<h4>Questions or bug reports?</h4>
+<h5>Other places to find me</h5>
+<ul>
+<li><a href="https://me.torva.run">portfolio</a></li>
+<li><a href="https://twitter.com/torvarun">twitter</a></li>
+<li><a href="https://github.com/torvarun">github</a></li>
+<li><a href="https://www.strava.com/athletes/torvarun">strava</a></li>
+</ul>
 
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+<p>All opinions expressed on this are mine only.</p>
 
-</div>
-
-<div class="col-md-4">
-
-<div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
-
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
-
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
-
-</div>
 </div>
 </div>
