@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Early Season Aggressiveness"
-date:   2018-02-11
+date:   2019-10-28
 author: varun
 categories: [ sports, basketball ]
 featured: true
